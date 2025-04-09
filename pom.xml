@@ -14,11 +14,11 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
-    <jackson.version>2.17.1</jackson.version>
+    <jackson.version>2.18.3</jackson.version>
     <jakarta.version>10.0.0</jakarta.version>
-    <jersey.version>3.1.7</jersey.version>
-    <junit.version>5.10.2</junit.version>
-    <msgpack.version>0.9.8</msgpack.version>
+    <jersey.version>3.1.10</jersey.version>
+    <junit.version>5.12.1</junit.version>
+    <msgpack.version>0.9.9</msgpack.version>
   </properties>
 
   <dependencyManagement>
